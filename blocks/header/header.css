@@ -5,5 +5,5 @@
   background-color: #f2f2f2;
   position: relative;
   flex-direction: column;
-  /* выше установили ограничения для секции */
+  overflow: hidden;
 }
