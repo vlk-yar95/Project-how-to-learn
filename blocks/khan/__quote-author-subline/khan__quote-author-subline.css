@@ -1,0 +1,8 @@
+.khan__quote-author-subline {
+  margin: 0;
+  line-height: 1.15px;
+  font-size: 24px;
+  font-weight: normal;
+  margin-top: 10px;
+  /*указал верхний отсуп, потому что текст слипается с khan__quote-author из за большой высоты строки*/
+}
