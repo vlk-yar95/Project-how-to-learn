@@ -4,5 +4,6 @@
   align-items: center;
   overflow: visible;
   position: relative;
-  top: 100px;
+  top: 60px;
+  margin-top: 40px;
 }
